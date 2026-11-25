@@ -7,3 +7,5 @@ out/
 *.jar
 *.log
 .DS_Store
+
+META-INF/
